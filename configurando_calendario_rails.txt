@@ -49,7 +49,7 @@ If you're using plain CSS, modify your application.css
 
 
 #------------------------------------------------------------------------------
-# app/inputs/date_time_input.rb
+# app/inputs/date_time_picker_input.rb
 #------------------------------------------------------------------------------
 class DateTimePickerInput < SimpleForm::Inputs::Base
   def input
